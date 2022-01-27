@@ -1,3 +1,5 @@
+# Code author: Joseph K. Nadeau
+
 import pygame as pg
 import sys, time
 import pandas as pd
