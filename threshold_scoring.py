@@ -1,3 +1,5 @@
+# Code author: Joseph K. Nadeau
+
 from cgitb import text
 from distutils import command
 from itertools import count
