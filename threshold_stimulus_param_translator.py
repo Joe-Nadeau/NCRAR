@@ -1,3 +1,5 @@
+# Code author: Joseph K. Nadeau
+
 from numpy.lib.shape_base import column_stack
 import pandas as pd
 import numpy as np
