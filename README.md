@@ -1,2 +1,2 @@
 # NCRAR
-Programs for studies
+Programs for data collection and analysis for research studies.
