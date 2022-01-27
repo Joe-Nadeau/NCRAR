@@ -1,3 +1,5 @@
+# Code author: Joseph K. Nadeau
+
 from tkinter import *
 import pandas as pd
 import winsound, random, time
