@@ -1,3 +1,5 @@
+# Code author: Joseph K. Nadeau
+
 from os import error
 from tkinter import *
 from tkinter import ttk
